@@ -1387,8 +1387,8 @@ New=a.load'g'.New
 
 
 return[[{
-    "name": "<制作者霖溺>",
-    "version": "霖溺脚本-版本:免费",
+    "name": "誓约",
+    "version": "Ealpha X",
     "main": "./dist/main.lua",
     "repository": "https://github.com/Footagesus/WindUI",
     "discord": "not",
@@ -9422,8 +9422,8 @@ ao:CreateTopbarButton("Close","x",function()
 ah(ao.UIElements.Main,0.35,{Position=UDim2.new(0.5,0,0.5,0)},Enum.EasingStyle.Quint,Enum.EasingDirection.Out):Play()
 ao:Dialog{
 
-Title="关闭霖溺？",
-Content="你可以再想想.",
+Title="关闭Ealpha X",
+Content="要关闭Ealpha X吗?",
 Buttons={
 {
 Title="取消",
